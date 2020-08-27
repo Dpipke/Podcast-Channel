@@ -527,17 +527,16 @@ footer{
     }
     .venimos{
         display: grid;
-        grid-template-columns: 200px 1fr 1fr 156px;
+        grid-template-columns: 200px 457fr 464fr 156px;
         margin: 0; 
         margin-top: 5%;
     }
     .venimos-text{
         grid-column: 3/4;
-        transform: translateY(-10%);
 
     }
     .descr-venimos{
-        max-width: 90%;
+        max-width: 92%;
         margin-right: 0;
     }
 
